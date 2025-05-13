@@ -1,0 +1,11 @@
+[
+  { "name": "HTML5" },
+  { "name": "CSS3" },
+  { "name": "JavaScript" },
+  { "name": "TypeScript" },
+  { "name": "React" },
+  { "name": "Chakra UI" },
+  { "name": "Git" },
+  { "name": "Vite" },
+  { "name": "Tailwind" }
+]
