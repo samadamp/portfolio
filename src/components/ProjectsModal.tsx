@@ -20,14 +20,14 @@ export const ProjectsModal = ({
   onClose: () => void;
 }) => {
   return (
-    <Modal isOpen={isOpen} onClose={onClose} size="lg" isCentered>
+    <Modal  isOpen={isOpen} onClose={onClose} size="lg" isCentered>
       <ModalOverlay bg="blackAlpha.700" />
       <ModalContent>
         <ModalHeader fontSize="4xl">Projects</ModalHeader>
         <ModalCloseButton />
-        <ModalBody>
-          <Text mb={4}>Here are some projects I've built! 👇</Text>
-          <Flex flexDirection="column" gap={3}>
+        <ModalBody p={8}>
+          <Text mb={5}>Here are some projects I've built! 👇</Text>
+          <Flex flexDirection="column" gap={5}>
             {projects.map((project) => (
               <Flex key={project.name} alignItems="center" gap={2}>
                 <Icons.Github boxSize={6} />

@@ -7,11 +7,11 @@ export const Footer = () => {
       <Flex justify="center" align="center" direction="column" gap={2}>
         <HStack spacing={4}>
           <Link href="https://github.com/samadamp" isExternal>
-            <Icons.Github boxSize={6} _hover={{ color: "teal.600", transform: "scale(1.45)" }}
+            <Icons.Github boxSize={7} _hover={{ color: "teal.600", transform: "scale(1.45)" }}
                   transition="all 0.4s"/>
           </Link>
           <Link href="https://linkedin.com/in/sam-pankhurst-769243291/" isExternal>
-            <Icons.LinkedIn boxSize={6} _hover={{ color: "teal.600", transform: "scale(1.45)" }}
+            <Icons.LinkedIn boxSize={7} _hover={{ color: "teal.600", transform: "scale(1.45)" }}
                   transition="all 0.4s"/>
           </Link>
         </HStack>
