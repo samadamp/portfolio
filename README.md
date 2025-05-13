@@ -4,15 +4,13 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![EmailJS](https://img.shields.io/badge/EmailJS-007ACC?style=for-the-badge&logo=gmail&logoColor=white)](https://www.emailjs.com/)
+
 
 
 Welcome to my personal portfolio!  
-Built with **React**, **Chakra UI v2**, **TypeScript**, and **Vite**.
-
-
 
 ---
-
 
 ## 🛠️ Built With
 - [React](https://react.dev/)
