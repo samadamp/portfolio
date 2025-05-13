@@ -1,32 +1,34 @@
-# 🖥️ Sam Pankhurst — Portfolio
+# 🧑‍💻 Sam Pankhurst Portfolio
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+
 
 Welcome to my personal portfolio!  
-This is a responsive frontend project built with **React**, **Chakra UI v2**, **TypeScript**, and **Vite**.
+Built with **React**, **Chakra UI v2**, **TypeScript**, and **Vite**.
+
+
 
 ---
 
-## 🚀 Live Demo
-[Visit the Live Website](https://your-live-site-link.com)  
-*(Update this once deployed!)*
-
----
 
 ## 🛠️ Built With
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Chakra UI v2](https://chakra-ui.com/)
-- [EmailJS](https://www.emailjs.com/) (for contact form emails)
+- [EmailJS](https://www.emailjs.com/)
 
 ---
 
 ## 📸 Features
 - Full-screen animated landing page ✨
 - Centered navbar with **modals** (About, Projects, Contact)
-- Contact form with **real email sending** via EmailJS
+- Contact form via **EmailJS**
 - Smooth animations and hover effects
 - Skills rendered dynamically from a JSON file
-- Responsive and mobile-friendly
 - Clean, minimal, professional design
 
 ---
@@ -40,5 +42,18 @@ Form fields include:
 
 ---
 
-## 📂 Project Structure
+##  🚀  Cloning the repo
+
+Clone the repo and install dependencies:
+
+- git clone https://github.com/samadamp/portfolio.git
+- cd portfolio
+- npm install
+- npm run dev
+
+## 📧 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/sam-pankhurst-769243291/)
+- [GitHub](https://github.com/samadamp)
+
 
