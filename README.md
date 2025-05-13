@@ -8,7 +8,7 @@
 
 
 
-Welcome to my personal portfolio!  
+Hi and welcome to my personal portfolio!
 
 ---
 
