@@ -1,6 +1,5 @@
 import { HStack, Button, useDisclosure } from "@chakra-ui/react";
 import { Icons } from "./Icons";
-
 import { ContactFormModal } from "./ContactFormModal";
 import { AboutModal } from "./AboutModal";
 import { ProjectsModal } from "./ProjectsModal";
@@ -46,7 +45,7 @@ export const Navbar = () => {
         >
           Projects
         </Button>
-        
+
         <Button
           onClick={onContactOpen}
           fontSize="3xl"
