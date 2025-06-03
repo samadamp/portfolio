@@ -28,7 +28,7 @@ export const AboutModal = ({
         <ModalCloseButton />
         <ModalBody>
           <Text letterSpacing={"wide"} fontSize="lg">
-            I'm a soon to be Frotend Developer (finishing my studies this June
+            I'm a soon to be Frontend Developer (finishing my studies this June
             of 2025). Atm I'm focused on improving my skills in React,
             TypeScript, and Chakra UI. When i started this journey 2 years ago i
             had no previous experience in coding, but i have always been
